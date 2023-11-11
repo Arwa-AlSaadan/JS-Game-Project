@@ -28,7 +28,7 @@ body{
 
 
 .img1-div{
-    border: red solid;
+    /* border: red solid; */
     display: flex;
     align-items: center;
     justify-content: end;
@@ -318,7 +318,7 @@ body{
     background-image: url("coin.png");
     background-size: contain;
     animation-name: fall;
-    animation-duration: 4s;
+    animation-duration: 3s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
   }
@@ -655,7 +655,7 @@ body{
     background-image: url("coin.png");
     background-size: contain;
     animation-name: fall;
-    animation-duration: 4s;
+    animation-duration: 3s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
   }
