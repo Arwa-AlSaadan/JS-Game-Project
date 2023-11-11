@@ -386,7 +386,7 @@ body{
 
 
 .img2-div{
-    border: red solid;
+    /* border: red solid; */
     width: 50vw;
     display: flex;
     align-items: center;
@@ -400,7 +400,7 @@ body{
 
 .storyText{
     position: absolute;
-    border: blue solid;
+    /* border: blue solid; */
     /* top: 30%;
     left: 54%; */
     width: 19vw;
