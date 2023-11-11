@@ -318,7 +318,7 @@ body{
     background-image: url("coin.png");
     background-size: contain;
     animation-name: fall;
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
   }
@@ -655,7 +655,7 @@ body{
     background-image: url("coin.png");
     background-size: contain;
     animation-name: fall;
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
   }
